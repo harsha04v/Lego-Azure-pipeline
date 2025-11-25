@@ -1,0 +1,21 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "pracdatafactory110"
+		},
+		"Ls_ADLS_accountKey": {
+			"value": ""
+		},
+		"Ls_ADLS_properties_typeProperties_url": {
+			"value": "https://adlspracstorage110.dfs.core.windows.net/"
+		},
+		"Ls_HTTP_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/harsha04v/"
+		},
+		"ls_JsonLookup_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/harsha04v/Lego-Azure-pipeline/refs/heads/main/foreach.json"
+		}
+	}
+}
