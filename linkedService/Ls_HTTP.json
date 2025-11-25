@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "HttpServer",
 		"typeProperties": {
-			"url": "https://raw.githubusercontent.com/harsha04v/Lego-Azure-pipeline/refs/heads/main/data/colors.csv",
+			"url": "https://raw.githubusercontent.com/",
 			"enableServerCertificateValidation": true,
 			"authenticationType": "Anonymous"
 		}
