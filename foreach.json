@@ -1,0 +1,26 @@
+[
+	{
+	"relative_url": "Lego-Azure-pipeline/refs/heads/main/data/colors.csv",
+	"filename":"colors.csv"
+	},
+	{
+	"relative_url": "Lego-Azure-pipeline/refs/heads/main/data/elements.csv",
+	"filename":"elements.csv"
+	},
+	{
+	"relative_url": "Lego-Azure-pipeline/refs/heads/main/data/inventories.csv",
+	"filename":"inventories.csv"
+	},
+	{
+	"relative_url": "Lego-Azure-pipeline/refs/heads/main/data/parts.csv",
+	"filename":"parts.csv"
+	},
+	{
+	"relative_url": "Lego-Azure-pipeline/refs/heads/main/data/sets.csv",
+	"filename":"sets.csv"
+	},
+	{
+	"relative_url": "Lego-Azure-pipeline/refs/heads/main/data/themes.csv",
+	"filename":"themes.csv"
+	}
+]
