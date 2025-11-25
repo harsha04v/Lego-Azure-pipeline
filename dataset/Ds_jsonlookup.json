@@ -1,0 +1,17 @@
+{
+	"name": "Ds_jsonlookup",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ls_JsonLookup",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Json",
+		"typeProperties": {
+			"location": {
+				"type": "HttpServerLocation"
+			}
+		},
+		"schema": {}
+	}
+}
