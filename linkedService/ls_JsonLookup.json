@@ -1,0 +1,12 @@
+{
+	"name": "ls_JsonLookup",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://raw.githubusercontent.com/harsha04v/Lego-Azure-pipeline/refs/heads/main/foreach.json",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
